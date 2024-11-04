@@ -28,6 +28,8 @@ You can take an in depth look at my process making this program in this [blog po
 - [Joystick](https://www.aliexpress.us/item/3256806002431759.html?spm=a2g0o.productlist.main.9.27cc669cp7PAyl&algo_pvid=5b7c1c10-8ecc-4a5a-93ae-169c947d8ba0&algo_exp_id=5b7c1c10-8ecc-4a5a-93ae-169c947d8ba0-4&pdp_npi=4%40dis%21USD%211.08%210.99%21%21%211.08%210.99%21%40210321dc17219345348044203eb837%2112000036194260765%21sea%21US%210%21ABX&curPageLogUid=DToZBiVTSLtx&utparam-url=scene%3Asearch%7Cquery_from%3A)
 - [Potentiometer](https://www.digikey.com/en/products/detail/sparkfun-electronics/COM-09806/7319606?s=N4IgTCBcDaIMIHkCyBaADATgBxoGwgF0BfIA)
 - [Tactile Push Button Switch](https://www.aliexpress.us/item/3256806107122384.html?spm=a2g0o.order_list.order_list_main.47.21ef1802q6HtRj&gatewayAdapt=glo2usa#nav-specification)
+- [Wire Kit](https://www.digikey.com/en/products/detail/digikey-standard/DKS-WK1/17038784)
+- [Jumper Wires](https://www.digikey.com/en/products/detail/sparkfun-electronics/PRT-12794/5993859)
 - USB-C cable
 
 ## How to Build the Project 
